@@ -3,13 +3,14 @@ room_allocator
 ==============
 
 
-Add a short description here!
+This application is used to randomly allocate offices and living spaces to Andela Fellows and Staff.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+A new Andela Fellow is assigned an office space and an optional living space. An Andela Staff member is
+assigned only an office space.
 
 
 Note
